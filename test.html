@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+  </head>
+    <body>
+    	test
+    	Make sure to have /embed after the src link
+
+<iframe width="320" height="440" src="https://www.instagram.com/sary.comfilms" frameborder="0"></iframe>
+<br>
+
+<div class="container">	
+<div id="instagram-feed-demo" class="instagram_feed"></div>
+</div>
+
+<script src="https://www.jqueryscript.net/demo/Instagram-Photos-Without-API-instagramFeed/jquery.instagramFeed.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>
+ (function($){
+		$(window).on('load', function(){
+			$.instagramFeed({
+				'username': 'sary.comfilms',
+				'container': "#instagram-feed-demo",
+				'display_profile': true,
+				'display_biography': true,
+				'display_gallery': true,
+				'get_raw_json': false,
+				'callback': null,
+				'styling': true,
+				'items': 36,
+				'items_per_row': 6,
+				'margin': 0.3
+			});
+		});
+	})(jQuery);
+  </script>
+
+<br></br>
+</body>
+</html>
