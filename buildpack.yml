@@ -32,15 +32,4 @@ php:
 
   ## Directory where web app code is stored
   # default: htdocs
-  webdirectory: src
-
-  ## Directory where library code is stored
-  # default: lib
-  libdirectory: lib
-
-  # Cli script to use with php Builtin Web Server
-  # no default
-  script:
-
-  ## default: admin@localhost
-  serveradmin: paas@localhost
+  webdirectory: .
