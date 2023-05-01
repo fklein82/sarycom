@@ -1,4 +1,1 @@
-# fichier pour les robots du site https://www.sarycom.fr/
-User-Agent: * 
-Allow: /*.css?* 
-Sitemap: https://www.sarycom.fr/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml

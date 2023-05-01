@@ -1,17 +1,67 @@
-# Sarycom Website [sarycom.fr](https://www.sarycom.fr)
-Films, Events, Icons website. Malagasy Movies Maker.
+# Menca personal blogging theme for Jekyll
 
-Sarycom Website Source Code.
+Menca is a super fast and clean blogging theme for Jekyll. One of the main features of this theme is video post support. You can easily add your favorite video from services like Youtube or Vimeo. This theme is fully compatible with Github Pages and has a light and dark mode for easy reading. If you want to start a creative personal blog and you create video content this theme is perfect for you.
 
-[![Build and Push to Docker HUB](https://github.com/fklein82/sarycom/actions/workflows/push-docker-image.yaml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/push-docker-image.yaml)
+* * *
 
-[![SyncToS3](https://github.com/fklein82/sarycom/actions/workflows/aws-S3-upload.yml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/aws-S3-upload.yml)
+### Demo
 
-## Connect with us
-<br>
-<a href="https://www.sarycom.fr"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://www.facebook.com/SRCFims/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UC0QMJYWWOAJbhZhCK1QSqbQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.instagram.com/sary.comfilms/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.tiktok.com/@sarycom.films"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<p><a href="https://tv.sarycom.fr">Vimeo</a></p>
+Check the theme in action [Live Demo](https://menca.netlify.app/) |
+[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+
+* * *
+
+### Theme features
+
+- Works with GitHub Pages (host it for free)
+- Dark and light mode user can select themself
+- No jQuery, only vanilla JS
+- 100% responsive Design
+- Clean and Modern Code
+- Optimized for mobile devices
+- Super fast performance ⚡⚡⚡
+- Social sharing buttons
+- Scroll to top button
+- Syntax highlighting (supports the Jekyll syntax highlighter)
+- Compatible with modern browsers
+- Medium style image zoom
+- Image Lazy loading
+- Image gallery
+- Tags Page
+- Custom logo support
+- Supports video posts
+- Supports contact form (Formspree)
+- Supports MailChimp newsletter
+- Supports Disqus comments
+- Supports Google Analytics
+- Ionicons icons
+- Free Google Fonts
+- Free Updates & Support
+
+* * *
+
+### Installation
+
+#### Installing Ruby & Jekyll
+
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+
+* * *
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+* * *
+
+### Documentation
+
+Before using the Menca theme, please read the attached documentation.
+
+* * *
+
+### Support
+
+<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
