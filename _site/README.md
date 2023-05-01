@@ -1,11 +1,9 @@
 # Sarycom Website [sarycom.fr](https://www.sarycom.fr)
 Films, Events, Icons website. Malagasy Movies Maker.
 
-Sarycom Website Source Code.
+Sarycom Website CI/CD.
 
-[![Build and Push to Docker HUB](https://github.com/fklein82/sarycom/actions/workflows/push-docker-image.yaml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/push-docker-image.yaml)
-
-[![SyncToS3](https://github.com/fklein82/sarycom/actions/workflows/aws-S3-upload.yml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/aws-S3-upload.yml)
+[![cicd](https://github.com/fklein82/sarycom/actions/workflows/cicd.yml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/cicd.yml)
 
 ## Connect with us
 <br>
