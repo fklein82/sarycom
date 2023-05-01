@@ -1,0 +1,111 @@
+#-------------------------------
+# Site Settings
+title: Sarycom
+logo: '/images/sarycom64.png'
+description: Production cinématographique et audiovisuelle Malgache
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.sarycom.fr"
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Sarycom
+  author__bio: Production cinématographique et audiovisuelle Malgache.
+  author__avatar: '/images/logo_src_avatar.png'
+
+social:
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/SRCFims/"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/sary.comfilms/"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@SaryComFilms/"}
+- {icon: "ion-logo-vimeo", link: "https://tv.sarycom.fr/"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/Sarycom_FILMS"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Anay Saison 2
+  hero__description: Retrouvez la suite des aventures d'Anay sur la chaine Novegasy de votre bouquet numérique Canal+. <br><br> Pour avoir des informations sur nos futures productions
+  hero__image: '/images/anay.png'
+  
+
+
+#-------------------------------
+# Newsletter
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: sarycom.us13.list-manage.com/subscribe/post?u=d1c5b405f62d316c5e1d4b256&amp;id=f959b0912e&amp;f_id=003afae2f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Saisissez votre adresse e-mail
+mailchimp__button__text: Inscrivez-vous
+
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  gallery__title: Gallery
+  gallery__columns: 3
+  gallery__images:
+    - alt: 'Rest'
+      url: '/images/100.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/101.jpg'
+    - alt: 'Hobby'
+      url: '/images/102.jpg'
+    - alt: 'Rest'
+      url: '/images/104.jpg'
+    - alt: 'Hobby'
+      url: '/images/118.jpg'
+    - alt: 'Rest'
+      url: '/images/109.jpg'
+
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: xpzebqbd # Add your email for contant form
+  description: Vous avez une question sur nos films, nos séries, ou nos castings ? Nous vous répondons par mail, sur les réseaux sociaux et par tchat. Vous pouvez également nous écrire via le formulaire ci-dessous, et nous vous répondrons par mail # Add a description of your form
+
+# NOTE
+# Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed

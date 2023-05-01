@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Anay Saison 2
+description: La suite des aventures d'Anay, le fils unique d'une famille riche d'Antananarivo...
+date:   2023-04-15 15:01:35 +0300
+image:  '/images/111.jpg'
+video_embed: https://www.youtube.com/embed/DEd1aFOL5bw
+tags:   [anay, anays2]
+---
+
+### Anay Saison 2
+
+La suite des aventures d'Anay saison 1.
+
+### Anay Saison 1
+
+Anay, fils unique d'une famille riche d'Antananarivo, a tout pour lui. Mais lorsque ses actes de délinquance le conduisent à être mis à la porte par sa belle-mère, les ennuis commencent. Accusé d'avoir eu une relation interdite avec sa demi-soeur, Anay est obligé de fuir la ville pour échapper à la colère de sa famille. Mais bientôt, il va découvrir que la vie en dehors des quartiers riches est bien différente de ce qu'il imaginait. Entre danger, trahison et amour, Anay devra se battre pour trouver sa place dans un monde qui ne lui a jamais vraiment appartenu. Une série dramatique et haletante, qui vous tiendra en haleine du début à la fin.
+
+*Group  [Facebook](https://www.facebook.com/groups/310235124087699)*
+
+![Anay]({{site.baseurl}}/images/anays2bis.jpeg)
+*Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*

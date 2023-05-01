@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Osika
+description: Préparez-vous pour une série qui va vous faire rire tout en vous offrant une dose d'action intense ! Suivez les aventures déjantées d'une équipe de héros pas comme les autres...
+date:   2022-06-26 15:01:35 +0300
+image:  '/images/osika-front.jpeg'
+video_embed: https://www.youtube.com/embed/WIFK9AzKWZc
+tags:   [osika]
+---
+### Sipa
+
+Préparez-vous pour une série qui va vous faire rire tout en vous offrant une dose d'action intense ! Suivez les aventures déjantées d'une équipe de héros pas comme les autres, qui se battent contre le crime tout en jonglant avec des situations hilarantes. Avec des personnages hauts en couleur et des rebondissements à chaque épisode, cette série vous tiendra en haleine du début à la fin !
+
+
+*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+
+![iloaina]({{site.baseurl}}/images/osika-banner.jpeg)
+*Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*

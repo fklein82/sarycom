@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Ilo Aina Saison 1
+description: Suivez les aventures de Ilo et d'Aina, deux soeurs jumelles séparées à la naissance, qui ont grandi dans des milieux radicalement différents...
+date:   2021-11-16 15:01:35 +0300
+image:  '/images/iloainas1-banner.jpg'
+video_embed: https://www.youtube.com/embed/fslK9OZp4dI
+tags:   [iloaina, iloainas1]
+---
+
+### Ilo Aina Saison 1
+
+Ilo et Aina, deux soeurs jumelles séparées à la naissance, ont grandi dans des milieux radicalement différents. Alors qu'Aina a été adoptée par un couple riche et mène une vie de luxe, Ilo a grandi dans la pauvreté et a dû abandonner ses études pour survivre. Mais quand leurs chemins se croisent par hasard, leur rencontre va déclencher une série d'événements qui vont mettre leur vie en danger. Entre secrets de famille, rivalités et désirs de vengeance, les deux soeurs devront se battre pour leur survie dans une série pleine de rebondissements et de suspense.
+
+*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+
+![iloaina]({{site.baseurl}}/images/iloainas1-banner.jpg)
+*Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*

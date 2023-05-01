@@ -1,187 +1,30 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Sarycom</title>
-        <description>Production cinématographique et audiovisuelle Malgache</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 May 2023 21:19:22 +0200</pubDate>
-        <lastBuildDate>Mon, 01 May 2023 21:19:22 +0200</lastBuildDate>
-        <generator>Jekyll v4.3.2</generator>
-        
+        <title>{{ site.title | xml_escape }}</title>
+        <description>{{ site.description | xml_escape }}</description>
+        <link>{{ site.url }}{{ site.baseurl }}/</link>
+        <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
+        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+        <generator>Jekyll v{{ jekyll.version }}</generator>
+        {% for post in site.posts limit:10 %}
             <item>
-                <title>Anay Saison 2</title>
-                <description>&lt;h3 id=&quot;anay-saison-2&quot;&gt;Anay Saison 2&lt;/h3&gt;
-
-&lt;p&gt;La suite des aventures d’Anay saison 1.&lt;/p&gt;
-
-&lt;h3 id=&quot;anay-saison-1&quot;&gt;Anay Saison 1&lt;/h3&gt;
-
-&lt;p&gt;Anay, fils unique d’une famille riche d’Antananarivo, a tout pour lui. Mais lorsque ses actes de délinquance le conduisent à être mis à la porte par sa belle-mère, les ennuis commencent. Accusé d’avoir eu une relation interdite avec sa demi-soeur, Anay est obligé de fuir la ville pour échapper à la colère de sa famille. Mais bientôt, il va découvrir que la vie en dehors des quartiers riches est bien différente de ce qu’il imaginait. Entre danger, trahison et amour, Anay devra se battre pour trouver sa place dans un monde qui ne lui a jamais vraiment appartenu. Une série dramatique et haletante, qui vous tiendra en haleine du début à la fin.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/310235124087699&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/anays2bis.jpeg&quot; alt=&quot;Anay&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Sat, 15 Apr 2023 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/anays2</link>
-                <guid isPermaLink="true">http://localhost:4000/anays2</guid>
-                
-                <category>anay</category>
-                
-                <category>anays2</category>
-                
-                
+                <title>{{ post.title | xml_escape }}</title>
+                <description>{{ post.content | xml_escape }}</description>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <link>{{ post.url | absolute_url }}</link>
+                <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+                {% for tag in post.tags %}
+                <category>{{ tag | xml_escape }}</category>
+                {% endfor %}
+                {% for cat in post.categories %}
+                <category>{{ cat | xml_escape }}</category>
+                {% endfor %}
             </item>
-        
-            <item>
-                <title>Ilo Aina Saison 2</title>
-                <description>&lt;h3 id=&quot;ilo-aina-saison-2&quot;&gt;Ilo Aina Saison 2&lt;/h3&gt;
-
-&lt;p&gt;La suite des aventures des 2 jumelles Ilo et d’Aina…&lt;/p&gt;
-
-&lt;h3 id=&quot;ilo-aina-saison-1&quot;&gt;Ilo Aina Saison 1&lt;/h3&gt;
-
-&lt;p&gt;Ilo et Aina sont 2 jumelles, fruit d’un viol dans les quartiers très pauvres de Tana. Après une lourde décision, Arline a dû se séparer de Aina qui a eu plus de chance car elle a été adoptée par un couple issu des quartiers huppés menant un train de vie assez aisé. Ilo quant à elle, vivait avec sa mère dans la misère et a était contrainte d’arrêter très tôt ses études… Le destin a causé la rencontre inopinée des 2 soeurs et le commencement des problèmes.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/iloainasaison2.png&quot; alt=&quot;iloaina&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Wed, 16 Nov 2022 13:01:35 +0100</pubDate>
-                <link>http://localhost:4000/iloainas2</link>
-                <guid isPermaLink="true">http://localhost:4000/iloainas2</guid>
-                
-                <category>iloaina</category>
-                
-                <category>iloainas2</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Sipa</title>
-                <description>&lt;h3 id=&quot;sipa&quot;&gt;Sipa&lt;/h3&gt;
-
-&lt;p&gt;Entrez dans le monde girly de Sarycom, une série inédite à Madagascar qui va vous plonger dans un univers de secrets, de potins, de trahisons et d’amitié. Suivez les aventures de jeunes femmes en quête d’amour, de réussite et de reconnaissance dans un monde où tout est permis pour atteindre ses objectifs. Entre coups de foudre, rivalités et drames, cette série vous réserve son lot de surprises et de rebondissements à chaque épisode. Alors préparez-vous à être captivé par cette histoire passionnante et addictive qui ne vous laissera pas indifférent !&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/sipa-banner.jpeg&quot; alt=&quot;iloaina&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Mon, 26 Sep 2022 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/sipa</link>
-                <guid isPermaLink="true">http://localhost:4000/sipa</guid>
-                
-                <category>sipa</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Osika</title>
-                <description>&lt;h3 id=&quot;sipa&quot;&gt;Sipa&lt;/h3&gt;
-
-&lt;p&gt;Préparez-vous pour une série qui va vous faire rire tout en vous offrant une dose d’action intense ! Suivez les aventures déjantées d’une équipe de héros pas comme les autres, qui se battent contre le crime tout en jonglant avec des situations hilarantes. Avec des personnages hauts en couleur et des rebondissements à chaque épisode, cette série vous tiendra en haleine du début à la fin !&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/osika-banner.jpeg&quot; alt=&quot;iloaina&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Sun, 26 Jun 2022 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/osika</link>
-                <guid isPermaLink="true">http://localhost:4000/osika</guid>
-                
-                <category>osika</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Ilo Aina Saison 1</title>
-                <description>&lt;h3 id=&quot;ilo-aina-saison-1&quot;&gt;Ilo Aina Saison 1&lt;/h3&gt;
-
-&lt;p&gt;Ilo et Aina, deux soeurs jumelles séparées à la naissance, ont grandi dans des milieux radicalement différents. Alors qu’Aina a été adoptée par un couple riche et mène une vie de luxe, Ilo a grandi dans la pauvreté et a dû abandonner ses études pour survivre. Mais quand leurs chemins se croisent par hasard, leur rencontre va déclencher une série d’événements qui vont mettre leur vie en danger. Entre secrets de famille, rivalités et désirs de vengeance, les deux soeurs devront se battre pour leur survie dans une série pleine de rebondissements et de suspense.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/iloainas1-banner.jpg&quot; alt=&quot;iloaina&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Tue, 16 Nov 2021 13:01:35 +0100</pubDate>
-                <link>http://localhost:4000/iloainas1</link>
-                <guid isPermaLink="true">http://localhost:4000/iloainas1</guid>
-                
-                <category>iloaina</category>
-                
-                <category>iloainas1</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Anay Saison 1</title>
-                <description>&lt;h3 id=&quot;anay-saison-1&quot;&gt;Anay Saison 1&lt;/h3&gt;
-
-&lt;p&gt;Anay, fils unique d’une famille riche d’Antananarivo, a tout pour lui. Mais lorsque ses actes de délinquance le conduisent à être mis à la porte par sa belle-mère, les ennuis commencent. Accusé d’avoir eu une relation interdite avec sa demi-soeur, Anay est obligé de fuir la ville pour échapper à la colère de sa famille. Mais bientôt, il va découvrir que la vie en dehors des quartiers riches est bien différente de ce qu’il imaginait. Entre danger, trahison et amour, Anay devra se battre pour trouver sa place dans un monde qui ne lui a jamais vraiment appartenu. Une série dramatique et haletante, qui vous tiendra en haleine du début à la fin.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/310235124087699&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/anays1-full.jpeg&quot; alt=&quot;Anay&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Mon, 14 Jun 2021 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/anays1</link>
-                <guid isPermaLink="true">http://localhost:4000/anays1</guid>
-                
-                <category>anay</category>
-                
-                <category>anays1</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Tanamania 2.0 (la série)</title>
-                <description>&lt;h3 id=&quot;tanamania&quot;&gt;Tanamania&lt;/h3&gt;
-
-&lt;p&gt;Thaïna, une jeune fille modeste venue de la campagne, a tout quitté pour poursuivre ses rêves à l’université d’Antananarivo. Mais quand elle débarque chez sa tante Sarah, elle ne se doute pas que sa vie va basculer du jour au lendemain. En effet, elle découvre rapidement que Sarah veut sa mort pour s’emparer de l’empire familial des Rajaona Thaïna, dont elle est l’héritière légale. Dans une course contre la montre pour sauver sa vie et préserver son héritage, Thaïna va devoir se battre contre les forces qui cherchent à la détruire. Entre trahison, amour et mystères, cette série vous emmènera dans un univers sombre et captivant, où rien n’est jamais ce qu’il semble être.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/tanamania-banner.jpeg&quot; alt=&quot;Anay&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Fri, 01 Jan 2021 13:01:35 +0100</pubDate>
-                <link>http://localhost:4000/tanamaniaserie</link>
-                <guid isPermaLink="true">http://localhost:4000/tanamaniaserie</guid>
-                
-                <category>tanamania</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Tanamania (le film)</title>
-                <description>&lt;h3 id=&quot;tanamania-le-film&quot;&gt;Tanamania le film&lt;/h3&gt;
-
-&lt;p&gt;Le premier long métrage de Sarycom. Produit en 2006.&lt;/p&gt;
-
-&lt;p&gt;Disponible gratuitement sur &lt;a href=&quot;https://youtu.be/oIjHKT851Wo&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/tanamania-movie-banner.jpeg&quot; alt=&quot;Tanamania&quot; /&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Sun, 01 Jan 2006 13:01:35 +0100</pubDate>
-                <link>http://localhost:4000/tanamaniafilm</link>
-                <guid isPermaLink="true">http://localhost:4000/tanamaniafilm</guid>
-                
-                <category>tanamania movie</category>
-                
-                
-            </item>
-        
+        {% endfor %}
     </channel>
 </rss>

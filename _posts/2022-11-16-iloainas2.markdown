@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Ilo Aina Saison 2
+description: La suite des aventures des 2 jumelles Ilo et d'Aina...
+date:   2022-11-16 15:01:35 +0300
+image:  '/images/iloainasaison2.png'
+video_embed: https://www.youtube.com/embed/4hpdt4NUzJk
+tags:   [iloaina, iloainas2]
+---
+### Ilo Aina Saison 2
+
+La suite des aventures des 2 jumelles Ilo et d'Aina...
+
+### Ilo Aina Saison 1
+
+Ilo et Aina sont 2 jumelles, fruit d’un viol dans les quartiers très pauvres de Tana. Après une lourde décision, Arline a dû se séparer de Aina qui a eu plus de chance car elle a été adoptée par un couple issu des quartiers huppés menant un train de vie assez aisé. Ilo quant à elle, vivait avec sa mère dans la misère et a était contrainte d’arrêter très tôt ses études... Le destin a causé la rencontre inopinée des 2 soeurs et le commencement des problèmes.
+
+*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+
+![iloaina]({{site.baseurl}}/images/iloainasaison2.png)
+*Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*
