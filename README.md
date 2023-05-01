@@ -1,4 +1,4 @@
-# Sarycom Website [sarycom.fr](https://www.sarycom.fr)
+# Sarycom v2 Website [sarycom.fr](https://www.sarycom.fr)
 Films, Events, Icons website. Malagasy Movies Maker.
 
 ## Build and Deploy on AWS Cloud
