@@ -1,5 +1,2 @@
-# Container image that runs my code
-FROM php:7-apache
-
-# Copies sarycom code file from my action repository to the filesystem path `/` of the container
+FROM php:7.2-apache
 COPY . /var/www/html/
