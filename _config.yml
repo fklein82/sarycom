@@ -107,7 +107,7 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      permalink: productions/:year/:month/:day/:title
+      permalink: productions/:year/:month/:day/:title.html
 
 include:
   - _pages
