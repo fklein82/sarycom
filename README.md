@@ -1,7 +1,7 @@
 # Sarycom Website [sarycom.fr](https://www.sarycom.fr)
 Films, Events, Icons website. Malagasy Movies Maker.
 
-## BUILD and Deploy on AWS Cloud
+## Build and Deploy on AWS Cloud
 
 [![cicd](https://github.com/fklein82/sarycom/actions/workflows/cicd.yml/badge.svg)](https://github.com/fklein82/sarycom/actions/workflows/cicd.yml)
 
