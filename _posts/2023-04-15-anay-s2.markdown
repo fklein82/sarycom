@@ -18,8 +18,9 @@ Anay, fils unique d'une famille riche d'Antananarivo, a tout pour lui. Mais lors
 
 ### Fan Zone
 
-- Groupe [<ion-icon name="logo-facebook"></ion-icon> Facebook](https://www.facebook.com/groups/310235124087699)
-- Bande Originale [<ion-icon name="headset-outline"></ion-icon> Youtube](https://youtu.be/5wr_RS7UZL4)
+- [Groupe Facebook <ion-icon name="logo-facebook"></ion-icon>](https://www.facebook.com/groups/310235124087699)
+
+- [Bande Originale <ion-icon name="headset-outline"></ion-icon>](https://youtu.be/5wr_RS7UZL4)
 
 ![Anay]({{site.baseurl}}/images/anays2bis.jpeg)
 *Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*

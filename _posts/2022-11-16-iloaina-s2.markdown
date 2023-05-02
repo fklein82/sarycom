@@ -15,7 +15,21 @@ La suite des aventures des 2 jumelles Ilo et d'Aina...
 
 Ilo et Aina sont 2 jumelles, fruit d’un viol dans les quartiers très pauvres de Tana. Après une lourde décision, Arline a dû se séparer de Aina qui a eu plus de chance car elle a été adoptée par un couple issu des quartiers huppés menant un train de vie assez aisé. Ilo quant à elle, vivait avec sa mère dans la misère et a était contrainte d’arrêter très tôt ses études... Le destin a causé la rencontre inopinée des 2 soeurs et le commencement des problèmes.
 
-*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+### Fan Zone
+
+- [Groupe Facebook <ion-icon name="logo-facebook"></ion-icon>](https://www.facebook.com/groups/148373813769074)
+
+- [Bande Originale <ion-icon name="headset-outline"></ion-icon>](https://youtu.be/MemUjdht45c)
+- [Teaser 2 Saison 2 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/4hpdt4NUzJk)
+- [Teaser 1 Saison 2 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/SHovozsT-ic)
+- [Saison 1 Bande Annonce <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/eYlZT8gy_X8)
+- [Saison 1 Bande Annonce <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/eYlZT8gy_X8)
+- [Teaser Saison 1 partie 2 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/m47nK5A6SBY)
+- [Teaser Saison 1 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/fslK9OZp4dI)
+- [Le bêtisier <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/yLphoUHgK5I)
+- [Message de Ilo Saison 1 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/6Cd1-8AIeUE)
 
 ![iloaina]({{site.baseurl}}/images/iloainasaison2.png)
 *Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*
+
+<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
