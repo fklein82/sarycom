@@ -12,7 +12,9 @@ tags:   [sipa]
 Entrez dans le monde girly de Sarycom, une série inédite à Madagascar qui va vous plonger dans un univers de secrets, de potins, de trahisons et d'amitié. Suivez les aventures de jeunes femmes en quête d'amour, de réussite et de reconnaissance dans un monde où tout est permis pour atteindre ses objectifs. Entre coups de foudre, rivalités et drames, cette série vous réserve son lot de surprises et de rebondissements à chaque épisode. Alors préparez-vous à être captivé par cette histoire passionnante et addictive qui ne vous laissera pas indifférent !
 
 
-*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+- [Groupe Facebook <ion-icon name="logo-facebook"></ion-icon>](https://www.facebook.com/groups/148373813769074)
 
 ![iloaina]({{site.baseurl}}/images/sipa-banner.jpeg)
 *Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*
+
+<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>

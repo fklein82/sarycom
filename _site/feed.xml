@@ -5,8 +5,8 @@
         <description>Production cinématographique et audiovisuelle Malgache</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 May 2023 00:51:07 +0200</pubDate>
-        <lastBuildDate>Wed, 03 May 2023 00:51:07 +0200</lastBuildDate>
+        <pubDate>Wed, 03 May 2023 01:05:59 +0200</pubDate>
+        <lastBuildDate>Wed, 03 May 2023 01:05:59 +0200</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -115,10 +115,15 @@
 
 &lt;p&gt;Entrez dans le monde girly de Sarycom, une série inédite à Madagascar qui va vous plonger dans un univers de secrets, de potins, de trahisons et d’amitié. Suivez les aventures de jeunes femmes en quête d’amour, de réussite et de reconnaissance dans un monde où tout est permis pour atteindre ses objectifs. Entre coups de foudre, rivalités et drames, cette série vous réserve son lot de surprises et de rebondissements à chaque épisode. Alors préparez-vous à être captivé par cette histoire passionnante et addictive qui ne vous laissera pas indifférent !&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/148373813769074&quot;&gt;Groupe Facebook &lt;ion-icon name=&quot;logo-facebook&quot;&gt;&lt;/ion-icon&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/sipa-banner.jpeg&quot; alt=&quot;iloaina&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://unpkg.com/ionicons@5.0.0/dist/ionicons.js&quot;&gt;&lt;/script&gt;
+
 </description>
                 <pubDate>Mon, 26 Sep 2022 14:01:35 +0200</pubDate>
                 <link>http://localhost:4000/productions/2022/09/26/sipa-s1.html</link>
@@ -196,10 +201,22 @@
 
 &lt;p&gt;Anay, fils unique d’une famille riche d’Antananarivo, a tout pour lui. Mais lorsque ses actes de délinquance le conduisent à être mis à la porte par sa belle-mère, les ennuis commencent. Accusé d’avoir eu une relation interdite avec sa demi-soeur, Anay est obligé de fuir la ville pour échapper à la colère de sa famille. Mais bientôt, il va découvrir que la vie en dehors des quartiers riches est bien différente de ce qu’il imaginait. Entre danger, trahison et amour, Anay devra se battre pour trouver sa place dans un monde qui ne lui a jamais vraiment appartenu. Une série dramatique et haletante, qui vous tiendra en haleine du début à la fin.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Group  &lt;a href=&quot;https://www.facebook.com/groups/310235124087699&quot;&gt;Facebook&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;fan-zone&quot;&gt;Fan Zone&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/groups/310235124087699&quot;&gt;Groupe Facebook &lt;ion-icon name=&quot;logo-facebook&quot;&gt;&lt;/ion-icon&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://youtu.be/5wr_RS7UZL4&quot;&gt;Bande Originale &lt;ion-icon name=&quot;headset-outline&quot;&gt;&lt;/ion-icon&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/anays1-full.jpeg&quot; alt=&quot;Anay&quot; /&gt;
 &lt;em&gt;Photo by &lt;a href=&quot;https://www.facebook.com/ony.andriananantany&quot;&gt;Ony&lt;/a&gt; on &lt;a href=&quot;https://www.instagram.com/sary.comfilms/&quot;&gt;Instagram&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://unpkg.com/ionicons@5.0.0/dist/ionicons.js&quot;&gt;&lt;/script&gt;
+
 </description>
                 <pubDate>Mon, 14 Jun 2021 14:01:35 +0200</pubDate>
                 <link>http://localhost:4000/productions/2021/06/14/anay-s1.html</link>
