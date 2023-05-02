@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sipa
-description: Secret, Potins , Trahison, Coup de foudre , Amitié sont le coktail de cette série inédite à Madagascar.
+description: Suivez les aventures de jeunes femmes prettent à tout pour réussir, où l'amour, la rivalité et les coups bas sont monnaie courante. Entrez dans l'univers "girly" de Sipa!
 date:   2022-09-26 15:01:35 +0300
 image:  '/images/sipa-banner.jpeg'
 video_embed: https://www.youtube.com/embed/8L3JCdPCG4o
