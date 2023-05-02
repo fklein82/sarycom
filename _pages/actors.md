@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nos talents
+title: Actrices et acteurs
 permalink: /talents/
 image: '/images/la_team2.jpg'
 ---
