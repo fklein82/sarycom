@@ -35,8 +35,10 @@ SRC Icons est notre branche dédiée à la représentation des artistes de Saryc
 
 SRC Events est notre agence événementielle basée à Antananarivo, Madagascar. Nous nous spécialisons dans la création, l'organisation et la gestion d'événements de toutes tailles, qu'il s'agisse de concerts, de festivals, de conférences, de lancements de produits ou de cérémonies spéciales. Nous travaillons en étroite collaboration avec nos clients pour créer des événements mémorables qui répondent à leurs besoins et dépassent leurs attentes.
 
-<p><iframe src="https://www.youtube.com/embed/bX6mQHkHTNI" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
+<div align="center">
+    <a href="https://youtu.be/bX6mQHkHTNI" target="_blank"><img src="/images/src-events.jpeg"></a>
+</div>
+<br>
 ### SRC Technology
 
 SRC Technology est la branche informatique de SRC Group, dédiée à la promotion et à la présence en ligne du groupe à travers les plateformes digitales et les réseaux sociaux.
