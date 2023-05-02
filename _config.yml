@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Anay Saison 2
-  hero__description: Retrouvez la suite des aventures d'Anay sur la chaine Novegasy de votre bouquet numérique Canal+. <br><br> Pour avoir des informations sur nos futures productions
+  hero__description: Retrouvez la suite des aventures d'Anay sur la chaine Novegasy de votre bouquet numérique <img src="/images/Canal-Logo-1995.png" alt="Logo HubSpot"/></img>. <br>Restez informé(e) de nos futures productions
   hero__image: '/images/anay.png'
   
 
