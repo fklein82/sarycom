@@ -17,7 +17,7 @@ Que ce soit pour des projets locaux ou internationaux, SaryCom Films s'efforce d
     <img src="/images/ony.jpeg">
   <em>Ony Andriananantany - CEO & Founder SRC Group |<a href="https://www.linkedin.com/in/ony-andriananantany-05b139231/" target="_blank"> Linkedin</a></em>
 </div>
-
+<br>
 ### SRC Icons
 
 SRC Icons est notre branche dédiée à la représentation des artistes de Sarycom Films en tant qu'e-influenceurs à Madagascar. En plus de cela, SRC Icons est également une agence de recrutement pour nos talents de demain.
@@ -47,7 +47,7 @@ SRC Technology est la branche informatique de SRC Group, dédiée à la promotio
     <img src="/images/fklein.png">
   <em>Frédéric Klein - CTO SRC Technology |<a href="https://www.linkedin.com/in/fklein82/" target="_blank"> Linkedin</a></em>
 </div>
-
+<br>
 ### Notre présence
 
 - SaRyCom Films, SRC Events et SRC Icons sont basées à Antananarivo. 
