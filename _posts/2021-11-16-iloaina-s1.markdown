@@ -10,9 +10,25 @@ tags:   [iloaina, iloainas1]
 
 ### Ilo Aina Saison 1
 
-Ilo et Aina, deux soeurs jumelles séparées à la naissance, ont grandi dans des milieux radicalement différents. Alors qu'Aina a été adoptée par un couple riche et mène une vie de luxe, Ilo a grandi dans la pauvreté et a dû abandonner ses études pour survivre. Mais quand leurs chemins se croisent par hasard, leur rencontre va déclencher une série d'événements qui vont mettre leur vie en danger. Entre secrets de famille, rivalités et désirs de vengeance, les deux soeurs devront se battre pour leur survie dans une série pleine de rebondissements et de suspense.
+Dans la saison 1 d'Ilo et Aina, les deux sœurs séparées à la naissance se retrouvent des années plus tard. Alors qu'Aina a grandi dans une famille aisée et bénéficie d'une bonne éducation, Ilo a dû lutter pour survivre dans les quartiers pauvres de Tana. Leur réunion est tumultueuse, mais rapidement les deux sœurs découvrent qu'elles partagent plus en commun qu'elles ne le pensaient, notamment leur père biologique qui a violé leur mère.
 
-*Group  [Facebook](https://www.facebook.com/groups/148373813769074)*
+Aina veut aider Ilo à sortir de la pauvreté et lui offre un travail dans l'entreprise familiale, mais leur relation est mise à rude épreuve par les secrets et les mensonges qui les entourent. Les deux sœurs doivent affronter leurs démons intérieurs et leurs différences sociales pour apprendre à se comprendre et à s'accepter mutuellement.
+
+Pendant ce temps, Ilo rencontre un jeune homme ambitieux nommé Tamby, qui est le frère d'Aina. Ils commencent une relation compliquée alors qu'ils essaient de sortir de leur situation difficile et de trouver leur place dans la société.
+
+Dans cette saison 1 d'Ilo et Aina, découvrez les défis émotionnels et sociaux que les deux sœurs doivent relever alors qu'elles cherchent à se reconnecter malgré leurs différences. Entre secrets de famille, amour, et obstacles sociaux, Ilo et Aina vont devoir faire face à de nombreux défis pour trouver leur place dans le monde.
+
+### Fan Zone
+
+- [Groupe Facebook <ion-icon name="logo-facebook"></ion-icon>](https://www.facebook.com/groups/148373813769074)
+
+- [Bande Originale <ion-icon name="headset-outline"></ion-icon>](https://youtu.be/MemUjdht45c)
+- [Saison 1 Bande Annonce <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/eYlZT8gy_X8)
+- [Saison 1 Bande Annonce <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/eYlZT8gy_X8)
+- [Teaser Saison 1 partie 2 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/m47nK5A6SBY)
+- [Teaser Saison 1 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/fslK9OZp4dI)
+- [Le bêtisier <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/yLphoUHgK5I)
+- [Message de Ilo Saison 1 <ion-icon name="videocam-outline"></ion-icon>](https://youtu.be/6Cd1-8AIeUE)
 
 ![iloaina]({{site.baseurl}}/images/iloainas1-banner.jpg)
 *Photo by [Ony](https://www.facebook.com/ony.andriananantany) on [Instagram](https://www.instagram.com/sary.comfilms/)*
