@@ -43,8 +43,8 @@ Films, Events, Icons website. Malagasy Movies Maker.
 
 ### Docker Image Build & Push on Registries
 
-- Public Registry: <a href="https://hub.docker.com/r/yfke8313/sarycom/tags">DockerHUB</a>
-- Private Registry<a href="https://registry.fklein.me/harbor/projects/25/repositories/src-website/artifacts-tab">Harbor</a>
+- Public registry: <a href="https://hub.docker.com/r/yfke8313/sarycom/tags">DockerHUB</a>
+- Private registry: <a href="https://registry.fklein.me/harbor/projects/25/repositories/src-website/artifacts-tab">Harbor</a>
 
 ### How to deploy the website on Kubernetes? Some Examples...
 
