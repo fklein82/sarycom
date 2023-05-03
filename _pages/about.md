@@ -43,6 +43,8 @@ SRC Events est notre agence événementielle basée à Antananarivo, Madagascar.
 
 SRC Technology est la branche informatique de SRC Group, dédiée à la promotion et à la présence en ligne du groupe à travers les plateformes digitales et les réseaux sociaux.
 
+La disponibilité de notre : <a href="https://stats.uptimerobot.com/GzwEBSJV02/787913103" target="_blank">Site internet (Sarycom.fr) <ion-icon name="bar-chart-outline"></ion-icon></a> .
+
 <div align="center">
     <img src="/images/fklein.png">
   <em>Frédéric Klein - CTO SRC Technology |<a href="https://www.linkedin.com/in/fklein82/" target="_blank"> Linkedin</a></em>
@@ -52,3 +54,7 @@ SRC Technology est la branche informatique de SRC Group, dédiée à la promotio
 
 - SaRyCom Films, SRC Events et SRC Icons sont basées à Antananarivo. 
 - La branche SRC Technology est quant à elle implantée à Paris, en France.
+
+<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+
+
