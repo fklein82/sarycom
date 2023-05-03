@@ -46,14 +46,22 @@ Films, Events, Icons website. Malagasy Movies Maker.
 ### How to deploy the website on Kubernetes? Some Examples...
 
 1. Create the deployment:
-<kubectl create deployment sarycom --image=registry.fklein.me/sarycom/src-website:2023-05-03-10-24-45 --port=80>
+~~~
+kubectl create deployment sarycom --image=registry.fklein.me/sarycom/src-website:2023-05-03-10-24-45 --port=80
+~~~
 
 2. Expose the website with a Loadbalancer L4:
-<kubectl expose deployment sarycom --port 80 --type LoadBalancer --target-port=80 -n demotbs>
+~~~
+kubectl expose deployment sarycom --port 80 --type LoadBalancer --target-port=80 -n demotbs
+~~~
 
 3. Check the ip:
-<k get svc -n demotbs>
+~~~
+k get svc -n sarycom
+~~~
 
 4. Delete the ressource
-<k delete deployment sarycom
-k delete service sarycom>
+~~~
+k delete deployment sarycom
+k delete service sarycom
+~~~
