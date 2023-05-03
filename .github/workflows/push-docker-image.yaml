@@ -5,8 +5,8 @@ env:
   DOCKER_USER: ${{secrets.DOCKER_USER}}
   DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
   REPO_NAME: ${{secrets.REPO_NAME}}
-  HARBOR_USER: ${{secrets.DOCKER_USER}}
-  HARBOR_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
+  HARBOR_USER: ${{secrets.HARBOR_USER}}
+  HARBOR_PASSWORD: ${{secrets.HARBOR_PASSWORD}}
 jobs:
   push-image-to-docker-hub:  # job name
     runs-on: ubuntu-latest  # runner name : (ubuntu latest version) 
