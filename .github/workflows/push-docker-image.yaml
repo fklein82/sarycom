@@ -21,4 +21,4 @@ jobs:
     - name: DockerHub Push
       run: docker push $DOCKER_USER/$REPO_NAME:${{ steps.date.outputs.date }}
     - name: fklein harbor Push
-      run: docker push oci://registry.fklein.me/sarycom/
+      run: docker push registry.fklein.me/sarycom/
